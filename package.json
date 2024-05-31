@@ -1,0 +1,25 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "purchase product from vending machine",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulkamble230792/Vending_Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulkamble230792/Vending_Machine/issues"
+  },
+  "homepage": "https://github.com/atulkamble230792/Vending_Machine#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "^1.0.0-beta.0",
+    "request": "^2.88.2"
+  },
+  "type": "module"
+}

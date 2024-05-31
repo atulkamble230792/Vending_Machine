@@ -1,0 +1,37 @@
+{
+    "products": [
+      {
+        "name": "lays",
+        "price": "30",
+        "quantity": 10,
+        "id": 1
+      },
+      {
+        "name": "Kurkure",
+        "price": "30",
+        "quantity": 10,
+        "id": 2
+      },
+      {
+        "name": "Nachos",
+        "price": "50",
+        "quantity": 10,
+        "id": 3
+      },
+      {
+        "name": "Pepsi",
+        "price": "30",
+        "quantity": 10,
+        "id": 4
+      }
+    ],
+    
+    "purchased_products":[
+      {
+        "name": "lays",
+        "price": "30",
+        "quantity": 10,
+        "id": 1
+      }
+    ]
+  }
